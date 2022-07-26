@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>HTML/CSS SPEC PROJECT</title>
+    <link href="main.css" rel="stylesheet">
+</head>
+
+<body>
+    <div class="header-links">
+        <div class="home-button">
+            <a href="" target="_blank">App Academy</a>
+        </div>
+        <div class="sign-in">
+            <a href="" target="_blank">Sign In</a>
+        </div>
+    </div>
+
+    <div class="navbar">
+        <a href="">home</a>
+        <a href="">news</a>
+        <a href="">updates</a>
+        <a href="">more</a>
+    </div>
+
+	<div>
+    <h1>Lorem ipsum dolor sit amet, consectur adipiscing elit,sed do</h1>
+	</div>
+
+    <div class="author-tags">
+        <h2>By Author</h2>
+        <a href="">facebook</a>
+        <a href="">twitter</a>
+        <a href="">share</a>
+    </div>
+
+    <div class="main-image">
+        <img src="" alt="main image">
+    </div>
+
+    <div class="main-content">
+        <h3>The Lore:</h3>
+        <p>Lorem ipsum dolor sit amet, consectur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+            magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+            commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillium do.</p>
+        <h3>The Ipsum:</h3>
+        <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex a commodo consequat.
+            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+            Excepteur sint occaecat cupidatat non.</p>
+    </div>
+
+    <div class="more-info">More info
+        <div class="lists">
+            <ul>iterative</ul>
+            <li>-The art of a for loop</li>
+            <li>-While,ifs and everything in between</li>
+            <li>-A loop within a loop</li>
+            <li>-Loopception</li>
+            <li>-Arrays back in the day</li>
+            <ul>recursive</ul>
+            <li>-To understand recursion</li>
+            <li>-One must understand recursion</li>
+            <li>-All kinds of sorts, sorts of all kinds</li>
+            <li>-Recursion, understand you must</li>
+            <li>-Base case and recursive steps</li>
+        </div>
+    </div>
+
+    <div class="footer">
+        <div class="aaimage">
+            <img src="" alt="app academy image">
+        </div>
+
+        <div class="other-links">
+            <a href="">Contact</a>
+            <a href="">About Us</a>
+            <a href="">Terms Of Use</a>
+            <a href="">FAQs</a>
+            <a href="">Privacy Policy</a>
+        </div>
+    </div>
+</body>
+
+</html>
